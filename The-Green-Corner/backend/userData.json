@@ -1,0 +1,125 @@
+{
+  "userData": [
+    {
+      "username": "Manashri",
+      "password": "Manashri@123",
+      "email": "manashri@gmail.com",
+      "contact": "9356422801",
+      "isAdmin": false,
+      "userId": "55965d52-ebcc-45f4-8453-3b98b322122",
+      "id": "080d"
+    },
+    
+    {
+      "id": "4a6a",
+      "username": "Manu",
+      "email": "rahane20@gmail.com",
+      "contact": "9356422801",
+      "password": "Manu@123",
+      "isAdmin": true
+    },
+    {
+      "username": "Abhishek",
+      "password": "Abhi@0909",
+      "email": "abhishekent2002@gmail.com",
+      "contact": "9322202688",
+      "isAdmin": false,
+      "userId": "55965d52-ebcc-45f4-8453-3b98b3216144",
+      "id": "05dc"
+    },
+    {
+      "username": "Abhishek",
+      "password": "Abhi@0909",
+      "email": "abhishekent2002@gmail.com",
+      "contact": "9322202688",
+      "isAdmin": false,
+      "userId": "7cbd3a85-dc69-4e47-82e3-1ae239b0722d",
+      "id": "2196"
+    },
+    {
+      "username": "akshay",
+      "password": "Password@123",
+      "email": "akshay@gmail.com",
+      "contact": "1234567890",
+      "isAdmin": true,
+      "userId": "211d1530-81b4-47a0-84a6-2b23d02237d9",
+      "id": "9cb4"
+    },
+    {
+      "username": "akshay",
+      "password": "Password@123",
+      "email": "akshay@gmail.com",
+      "contact": "1234567890",
+      "isAdmin": true,
+      "userId": "6e27040a-2a03-4d50-ad9c-4a4de4d1edac",
+      "id": "320e"
+    },
+    {
+      "username": "Pranay",
+      "password": "Pranay@12",
+      "email": "Pranay@123",
+      "contact": "9742383292",
+      "userId": "baca2c22-4d75-4fcd-806b-02bb6c072f44",
+      "id": "3735"
+    },
+    {
+      "username": "Pranay",
+      "password": "Pranay@12",
+      "email": "Pranay@123",
+      "contact": "9742383292",
+      "userId": "749d484e-c613-4a11-9c11-491719d66697",
+      "id": "3ca5"
+    },
+    {
+      "username": "pranay",
+      "password": "Pranay@123",
+      "email": "pranay@gmail.com",
+      "contact": "9742383292",
+      "userId": "5ac35271-b17a-4678-b266-a891bea0815d",
+      "id": "10cc"
+    },
+    {
+      "username": "pranay",
+      "password": "Pranay@123",
+      "email": "pranay@gmail.com",
+      "contact": "9742383292",
+      "userId": "726065da-fd50-4736-8003-d426419af991",
+      "id": "8a9d"
+    },
+    {
+      "username": "pranay",
+      "password": "Pranay@123",
+      "email": "pranay@gmail.com",
+      "contact": "9742383292",
+      "userId": "bd069adc-d656-4ac7-9f6c-fa5d2ff0cf89",
+      "id": "3b3a"
+    },
+    {
+      "username": "admin",
+      "password": "Admin@123",
+      "email": "admin@123gmail.com",
+      "isAdmin": true,
+      "userId": "bedb8aa0-1816-42e9-8b38-9cd8dd42bdf4",
+      "id": "26d7"
+    },
+    {
+      "username": "admin",
+      "password": "Admin@123",
+      "email": "admin@123gmail.com",
+      "isAdmin": true,
+      "userId": "3b668378-3c8a-42dc-959d-1e15e8301b11",
+      "id": "69f3"
+    },
+  
+  
+    {
+      "id": "00c8",
+      "username": "Dipali",
+      "email": "manashrirahane@gmail.com",
+      "contact": "6729572840",
+      "password": "Diplai@123",
+      "isAdmin": false
+    }
+
+  ]
+}
